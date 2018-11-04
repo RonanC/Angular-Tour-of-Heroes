@@ -1,11 +1,11 @@
 Following the "Angular Tour of Heroes" tutorial from Angular.io here:
 https://angular.io/tutorial
 
-Next steps:
+## Next steps:
 - Hook up the project to a Firebase DB.
 - Wrap it in an Electron App.
 
-Interesting notes/links from the tutorial:
+## Interesting notes/links from the tutorial:
 - [In Memory Web API](https://github.com/angular/in-memory-web-api) - intercept HTTP calls for dev mode
 - [Faker.js](https://github.com/marak/Faker.js/) - Create fake data
 - [Faker.js](http://marak.github.io/faker.js/) - Github project
