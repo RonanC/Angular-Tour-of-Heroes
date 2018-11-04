@@ -1,4 +1,11 @@
-Following the "Angular Tour of Heroes" tutorial from Angular.io
+Following the "Angular Tour of Heroes" tutorial from Angular.io here:
+https://angular.io/tutorial
+
+Next steps:
+- Hook up the project to a Firebase DB.
+- Wrap it in an Electron App.
+
+___
 
 # AngularTourOfHeroes
 
