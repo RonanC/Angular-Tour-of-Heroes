@@ -5,6 +5,12 @@ Next steps:
 - Hook up the project to a Firebase DB.
 - Wrap it in an Electron App.
 
+Interesting notes/links from the tutorial:
+- (In Memory Web API)[https://github.com/angular/in-memory-web-api]
+- (Faker.js)[https://github.com/marak/Faker.js/] - Create fake data
+- (Faker.js)[http://marak.github.io/faker.js/] - Github project
+- (Article)[https://medium.com/@amcdnl/mocking-with-angular-more-than-just-unit-testing-cbb7908c9fcc] on using In Memory Web API with Faker.js
+
 ___
 
 # AngularTourOfHeroes
